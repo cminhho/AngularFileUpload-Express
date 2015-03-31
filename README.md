@@ -1,4 +1,4 @@
-# ng-file-upload-example
+# ng file upload example
 
 ```sh
  $npm install
