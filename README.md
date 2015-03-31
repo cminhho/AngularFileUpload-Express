@@ -5,3 +5,4 @@
  $npm install
  $node server.js
 ```
+server at http://localhost:3000/.
