@@ -1,0 +1,6 @@
+.temp
+.idea
+*.iml
+node_modules
+vendor
+bower_components

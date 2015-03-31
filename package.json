@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+	"express": "~4.10.2",
+    "multer": "~0.1.6"
+  },
+  "dependencies": {
+  },
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
