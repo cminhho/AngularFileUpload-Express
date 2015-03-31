@@ -1,13 +1,6 @@
 'use strict';
 angular
     .module('app')
-    // Angular File Upload module does not include this directive
-    // Only for example
-    /**
-    * The ng-thumb directive
-    * @author: nerv
-    * @version: 0.1.2, 2014-01-09
-    */
     .directive('ngThumb', ['$window', function($window) {
         var helper = {
             support: !!($window.FileReader && $window.CanvasRenderingContext2D),
